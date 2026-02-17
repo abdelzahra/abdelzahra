@@ -2,7 +2,14 @@
 
 ## Hi there 👋 Welcome to my GitHub!
 
-I'm Abdelrahman Zahra, a senior at the University of North Florida pursuing a degree in Computing and Information Systems. I'm passionate about leveraging technology to solve real-world problems and continuously improving my skills in software development, data analysis, and IT systems.
+I'm Abdelrahman Zahra, a Full Stack Software Engineer with a background in Computing & Information Sciences and experience building scalable web applications, RESTful APIs, and microservices-based systems.
+
+My work focuses on designing secure backend services, optimizing high-throughput APIs, and deploying cloud-native applications using AWS, Docker, and CI/CD pipelines. I’ve contributed to decomposing legacy systems into containerized microservices, implementing role-based access control (RBAC), and improving deployment efficiency through blue/green release strategies.
+On the frontend, I work with modern JavaScript frameworks including React and Next.js, while building backend systems with FastAPI and Django. I’ve also worked with relational and NoSQL databases and integrated AI/ML capabilities into data-driven applications.
+
+I’m particularly interested in building systems that are scalable, secure, and performance-focused - delivering measurable improvements in reliability, efficiency, and user experience in production environments.
+Open to opportunities in full-stack, backend, and cloud-focused engineering roles.
+
 
 ### 🔭 What I'm Working On:
 - **Metrics Dashboard Project:** A .NET MVC application to streamline data operations for a non-profit organization.
@@ -20,7 +27,7 @@ I'm Abdelrahman Zahra, a senior at the University of North Florida pursuing a de
 
 ### 📫 How to Reach Me:
 - LinkedIn: [linkedin.com/in/abdelrahmanzahra](https://linkedin.com/in/abdelrahmanzahra)
-- Email: abdelzahra33333@gmail.com
+- Email: azahra4dev@gmail.com
 
 ### 👯 I’m Looking to Collaborate On:
 - Open-source projects in web development or data analytics.
